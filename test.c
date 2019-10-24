@@ -2,5 +2,6 @@ int main(int argc, const char *argv[])
 {
 	printf("hello world");
 	printf("\n");
+	printf("=======");
 	return 0;
 }
